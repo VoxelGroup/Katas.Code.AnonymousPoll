@@ -7,7 +7,7 @@ Your university wants you to fill out an “anonymous” survey. There are many 
 * Education
 * Academic Year
 
-Are you sure this is really anonymous? If you have a [list of all students](./resources/allstudents) and you ask them to take a random survey, you may be able to identify the students who complete the survey.
+Are you sure this is really anonymous? If you have a [list of all students](./resources/students) and you ask them to take a random survey, you may be able to identify the students who complete the survey.
 
 The [list of students](./resources/students) is a text file. Each line has the information of a student in comma-separated values:
 
