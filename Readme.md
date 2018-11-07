@@ -38,6 +38,9 @@ Case #Ti: Ri
 
 Where “Ti” is the case number and “Ri” is the result.
 
+## Implementation
+- Implements the solution "Anonymous Poll" using **Object-Oriented Programming** and **SOLID principles** finding the best solution to create a maintainable software.
+
 ## Sample input
 
 ```
@@ -59,3 +62,6 @@ Case #4: Mohammad Green Morales,Oliver Carter Rivera
 Case #5: Ellie Brown Reed,Laura Stewart Foster,Nicole Peterson Torres
 ```
 
+---
+## ¿How to deliver the solution?
+- When you finish, send an email attaching a zip with the solution to people@voxelgroup.net.
